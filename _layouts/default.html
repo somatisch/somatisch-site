@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body class="level2"><!-- add any of your classes or IDs -->
+    <div id="content" role="main" class="row">
+
+      <section>
+        <div class="row" id="main-content-area">
+
+          <div class="medium-9 columns">
+          {{ content }}
+          </div>
+          <div class="medium-3 columns sidebar">
+            Sidebar
+          </div>
+
+        </div>
+      </section>
+
+    </div><!-- /.container -->
+
+    {% include footer.html %}
+  </body>
+</html>
