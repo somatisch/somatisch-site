@@ -1,7 +1,7 @@
 # Site settings
 name: Somatisch
 email: noreply@none.net
-domain: //somatisch.github.io
+domain: //somatisch.io
 baseurl: /
 permalink: pretty
 
