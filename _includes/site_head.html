@@ -1,0 +1,21 @@
+<div class="top-bar">
+  <div class="top-bar-left">
+    <ul class="dropdown menu" data-dropdown-menu>
+      <li class="menu-text">{{ site.name }}</li>
+    </ul>
+  </div>
+  <div class="top-bar-right">
+    <ul class="menu">
+      {% comment %}
+      We construct the site naviagion by loading a list of the site's pages
+      and filtering to just those with the front matter of:
+        group: "in_local_navigation"
+      and we order by adding
+        order: 2 (whatever number)
+      {% endcomment %}
+      {% assign navigation_list = site.pages | sort:"order" %}
+      {% assign group = 'in_local_navigation' %}
+      {% include navigation_list.html %}
+    </ul>
+  </div>
+</div>
