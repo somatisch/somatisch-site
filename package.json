@@ -1,0 +1,27 @@
+{
+  "name": "somatisch-site",
+  "version": "1.0.0",
+  "description": "The main somatisch.io site",
+  "main": "index.html",
+  "dependencies": {
+    "foundation-sites": "^6.3.0",
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somatisch/somatisch-site.git"
+  },
+  "author": "",
+  "license": "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)",
+  "bugs": {
+    "url": "https://github.com/somatisch/somatisch-site/issues"
+  },
+  "homepage": "https://github.com/somatisch/somatisch-site#readme"
+}
