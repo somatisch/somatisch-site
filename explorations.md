@@ -4,18 +4,20 @@ title: Explorations
 group: "in_local_navigation"
 order: 3
 ---
-## {{site.name}} thought experiments
+## Exploring
 
-<base target="_blank">
-<iframe id="Example2"
-    title="Example2"
-    width="400"
-    height="300"
-    frameborder="0"
-    scrolling="no"
-    marginheight="0"
-    marginwidth="0"
-    src="http://eve.somatisch.io/">
-</iframe>
+Here are some recent things I've been looking into, perhaps you'll find them interesting.
 
-<a class="button" href="http://eve.somatisch.io/"> See bigger example </a>
+<div>
+{% for update in site.posts %}
+  {% if update.tag == "explorations" %}
+    <div class="padding-bottom-xlarge padding-top-xlarge padding-left-large padding-right-large callout">
+      <span>{{ update.date | date_to_string }}</span>
+
+      <h3><a href="{{ update.url }}" title="{{ update.title }}">{{ update.title }}</a></h3>
+      {{ update.content }}
+    </div>
+  {% endif %}
+{% endfor %}
+
+</div>

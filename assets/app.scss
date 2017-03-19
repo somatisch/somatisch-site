@@ -154,6 +154,7 @@ h2 {
   font-family: 'Lora', Georgia, serif;
 }
 
+#footer a:link,
 #content a:link {
   text-decoration: none;
   background: linear-gradient(#333, #333);
@@ -163,9 +164,19 @@ h2 {
   background-position: 2px 93%;
 }
 
+#footer a:hover,
 #content a:hover {
-  background: linear-gradient(#999, #999);
+  background-image: linear-gradient(#999, #999);
 }
+
+#content a:link.button {
+  background: $primary-color;
+  text-shadow: none;
+}
+
+.menu .active > a { color: $secondary-color; }
+
+.sidebar { padding-top: 6rem; }
 
 /* custom spacing */
 .margin-top-none { margin-top: 0; }

@@ -1,10 +1,12 @@
 {% for node in navigation_list %}
   {% if group == null or group == node.group %}
-    {% if page.url == node.url %}
-      <li class="active"><a href="{{ site.domain }}{{ site.baseurl }}{{node.url}}" class="active">{{node.title}}</a></li>
-    {% else %}
-      <li><a href="{{ site.domain }}{{ site.baseurl }}{{node.url}}">{{node.title}}</a></li>
-    {% endif %}
+    <span class="padding-right-large">
+      {% if page.url == node.url %}
+        <a href="{{node.url}}" class="active">{{node.title}}</a>
+      {% else %}
+        <a href="{{node.url}}">{{node.title}}</a>
+      {% endif %}
+    </span>
   {% endif %}
 {% endfor %}
 {% assign pages_list = nil %}

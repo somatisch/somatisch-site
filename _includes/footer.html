@@ -1,10 +1,29 @@
-<footer>
+<footer id="footer" class="row padding-top-xlarge">
+  <div class="columns medium-10">
+    Subscribe: <a href="/updates/atom.xml">By feed (Atom, RSS-like)</a>
+  </div>
+  <div class="columns medium-2">
+    <a href="/impressum">Impressum</a> |
+    <a href="/contact">Contact</a>
+  </div>
 </footer>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.1/js/foundation.min.js"></script>
 <script type="text/JavaScript">$(document).foundation();</script>
 <!-- <script type="text/JavaScript">$(document).foundationExtend();</script> -->
+<script src="/assets/flowtype.js"></script>
+<script type="text/JavaScript">
+$('p').flowtype({
+  minFont : 14,
+  maxFont : 40
+});
+$('h1').flowtype({
+  fontRatio : 10,
+  minFont : 30,
+  maxFont : 70
+});
+</script>
 
 {% comment %} Custom global JS could go here: {% endcomment %}
 {% for js in site.custom_js %}

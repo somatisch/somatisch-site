@@ -2,15 +2,17 @@
 <html lang="en">
   {% include head.html %}
   <body class="">
+    <!-- <h1><a href="/">Somatisch</a></h1> -->
+    <div class="medium-12 columns padding-top-medium">
+      {% include site_head.html %}
+    </div>
     <div id="content" role="main" class="row">
 
       <section class="columns">
+
         <div class="row" id="main-content-area">
 
-          <div class="medium-2 columns sidebar">
-            {% include site_head.html %}
-          </div>
-          <div class="medium-8 medium-pull-2 columns large-pull-1 padding-top-xlarge">
+          <div class="medium-10 medium-push-1 columns  padding-top-xlarge">
           {{ content }}
           </div>
 

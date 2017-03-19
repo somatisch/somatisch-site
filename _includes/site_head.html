@@ -1,4 +1,5 @@
-<ul class="menu vertical">
+<a href="/">Somatisch</a>
+<div class="float-right">
   {% comment %}
   We construct the site naviagion by loading a list of the site's pages
   and filtering to just those with the front matter of:
@@ -9,4 +10,4 @@
   {% assign navigation_list = site.pages | sort:"order" %}
   {% assign group = 'in_local_navigation' %}
   {% include navigation_list.html %}
-</ul>
+</div>
