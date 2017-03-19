@@ -6,5 +6,5 @@ order: 5
 ---
 
 # Let's talk about it
-- E-mail me: <a href="mailto:ilabra@gmail.com">ilabra@gmail.com</a>
-- Or let's chat: SLACKCHANNELHERE
+- E-mail me: <a href="mailto:i@somatisch.io">i@somatisch.io</a>
+- Or let's chat: https://somatisch.slack.com/messages/C4LJMVB7F
