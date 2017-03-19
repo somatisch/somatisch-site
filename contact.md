@@ -7,6 +7,12 @@ order: 5
 
 # Let's talk about it
 - E-mail me: <a href="mailto:i@somatisch.io">i@somatisch.io</a>
+<<<<<<< HEAD
 - Or let's chat:[slack] https://somatisch.slack.com/messages/C4LJMVB7F
 - or skype: ilabra
 -  digits EU +49 174 947 3812, US +1(510) 545-3623
+=======
+- Or let's chat:[slack](https://somatisch.slack.com/messages/C4LJMVB7F)
+- <a href="https://somatisch.slack.com/messages/C4LJMVB7F"><img src="https://assets.brandfolder.com/ubhnmsn4/original/Slack_Mark_Web.png" width="20" height="20" /> Slack</a>
+- [![slack logo](https://assets.brandfolder.com/ubhnmsn4/original/Slack_Mark_Web.png)](https://somatisch.slack.com/messages/C4LJMVB7F)
+>>>>>>> origin/gh-pages

@@ -7,7 +7,7 @@ tag: explorations
 
 Going from newt to awesome.
 
-<img src="/explorations/Value_Chain_Mapping.svg" />
+<img src="https://docs.google.com/drawings/d/1P1KYhEC6__HDJ2p6Dc6yLOZtk3nj0ZOWxKrI6C9zb9Q/pub?w=960&amp;h=720">
 
 im working on ideas
 
