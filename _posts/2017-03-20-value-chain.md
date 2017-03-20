@@ -9,7 +9,7 @@ tag: explorations
 [Markets from Networks](http://press.princeton.edu/titles/7207.html)
 [Harrison White](http://sociology.columbia.edu/node/170)
 
-There has been a lot written on positioning, market making, the relationship of a start up to a market etc. Some of the [better writing](https://hackernoon.com/obviously-awesome-a-product-positioning-exercise-604e8ced841e#.u5x18i3gb) refers to "Markets" as frames of reference; the idea of ["Blue Oceans"](https://www.blueoceanstrategy.com/) the innovation driven quest to define uncontested market niches. For entrepreneurs it is always a challenge, between explaining the market possibility as is , the addressable market, and communicating the opportunity as it could be.
+There has been a lot written on positioning, market making, the relationship of a start up to a market etc. Some of the [better writing](https://hackernoon.com/obviously-awesome-a-product-positioning-exercise-604e8ced841e#.u5x18i3gb) refers to "Markets" as frames of reference; the idea of ["Blue Oceans"](https://www.blueoceanstrategy.com/) the innovation driven quest to define uncontested market niches. For entrepreneurs it is always a challenge, between explaining the market possibility as is, the addressable market, and communicating the opportunity as it could be.
 
 But the idea of a possible market itself, is easy when compared to outlining a map for execution, aligning teams to drive toward a goal, and realizing market potential.
 
