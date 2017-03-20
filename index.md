@@ -31,7 +31,7 @@ The somatisch.io practice is based on the following characteristics:
 - discursive and constructive – modifies the assumptions that informa patterns we are in to construct new patterns
 - pragmatic and applied – made to be implemented in the real world and grounded in practical application.
 
-The models, methods, techniques, and heuristics we like and use you can find under [recipes](/recipes).
+Feel free to look through and use our [recipes](/recipes).
 
 {% include introduction.md %}
 
