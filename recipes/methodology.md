@@ -2,7 +2,7 @@
 layout: default
 title: Methodology
 group: "recipes"
-order: 2
+order: 1
 ---
 ## Methodology
 
