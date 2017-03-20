@@ -4,11 +4,9 @@ title: "Value Chain Mapping"
 date: 2017-03-20
 tag: explorations
 ---
->The *key* to economic action is that *producers seek market niches* to *maximize profit and minimize competition*.  As they do so, they base production decisions not only on anticipated costs from suppliers and anticipated demand from buyers, but also by looking at their competitors.  Producers act less in response to actual demand than by *anticipating* it  gauge where competitors have found demand and thus determine what they can do that is similar …..*and yet  different enough* to give themselves a *special niche*
-
-[Markets from Networks,](http://press.princeton.edu/titles/7207.html)
-
-[Harrison White](http://sociology.columbia.edu/node/170)
+>The *key* to economic action is that *producers seek market niches* to *maximize profit and minimize competition*.  As they do so, they base production decisions not only on anticipated costs from suppliers and anticipated demand from buyers, but also by looking at their competitors.  Producers act less in response to actual demand than by *anticipating* it, gauging where competitors have found demand and thus determine what they can do that is similar …..*and yet  different enough* to give themselves a *special niche*
+[Harrison White,](http://sociology.columbia.edu/node/170)
+[Markets from Networks](http://press.princeton.edu/titles/7207.html)
 
 There has been a lot written on positioning, market making, the relationship of a start up to a market etc. Some of the [better writing](https://hackernoon.com/obviously-awesome-a-product-positioning-exercise-604e8ced841e#.u5x18i3gb) refers to "Markets" as frames of reference; the idea of ["Blue Oceans"](https://www.blueoceanstrategy.com/) the innovation driven quest to define uncontested market niches. For entrepreneurs it is always a challenge, between explaining the market possibility as is, the addressable market, and communicating the opportunity as it could be.
 
