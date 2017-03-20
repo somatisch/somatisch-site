@@ -2,7 +2,7 @@
 layout: default
 title: Get in touch
 group: "in_local_navigation"
-order: 5
+order: 6
 ---
 
 # Let's talk about it
