@@ -28,7 +28,7 @@ The somatisch.io practice is based on the following characteristics:
 - learning focused – specifies actions as part of patterns that can be learned and executed.
 - outcome driven – analyzes outcomes and data that result from actions and reconstructs the patterns that produced them.
 - evolutionary – adjusts, iterates, and evolves patterns to drive toward desired outcomes.
-- discursive and constructive – modifies the assumptions that informa patterns we are in to construct new patterns
+- discursive and constructive – works with clients to develop the assumptions that inform patterns and recipes.
 - pragmatic and applied – made to be implemented in the real world and grounded in practical application.
 
 Feel free to look through and use our [recipes](/recipes).
