@@ -22,7 +22,7 @@ The somatisch.io approach brings together the two key aspects of effective strat
 
 **Energy** - helping clients realize decisions  by generating the momentum to execute a course of action
 
-The somatisch.io practice is based on the following characteristics:
+The somatisch.io [practice](/recipes/practice) is based on the following characteristics:
 
 - specific – guides practitioners and participants with actions, methods, models, and heuristics - all of which we call recipes.
 - learning focused – specifies actions as part of patterns that can be learned and executed.
