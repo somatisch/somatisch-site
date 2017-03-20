@@ -14,7 +14,7 @@ But the idea of a possible market itself is easy when compared to getting to mar
 
 One of the more interesting approaches to help bring market aspiration, vision and execution together is that of [value chain mapping](http://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) originated by [Simon Wardley](https://twitter.com/swardley)
 
-At first, it not seem as the  most intuitive approach, but once understood, the technique  helps clarify a couple of key ideas vital to developing and executing a strategy to address a market as it exists in a network.
+At first, it may not seem as the  most intuitive approach, but once understood, the technique  helps clarify a couple of key ideas vital to developing and executing a strategy to address a market as a network.
 
 - first it situates an effort within an embedded value graph grounding decision not in theoretical business scenarios but in specific economic contexts
 - secondly it forces one to consider modular organizational capabilities and the nature of the enterprise - your team
