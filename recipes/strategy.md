@@ -6,4 +6,4 @@ order: 2
 ---
 ## Strategy
 
-[Value Chain Mapping](/recipes/value-chain-mapping)
+- [Value Chain Mapping](/recipes/value-chain-mapping)
