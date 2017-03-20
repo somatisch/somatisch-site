@@ -33,4 +33,4 @@ The second is a template for creating  a value chain map.
 
 Here is [more](http://blog.gardeviance.org/2015/04/the-only-structure-youll-ever-need.html) from the originator of the concept.
 
-If you would like to learn more about this and other recipes (heuristics), or would like to schedule an exercise, please let drop a line.
+If you would like to learn more about this and other recipes, or would like to schedule an exercise, please let drop a line.
