@@ -9,12 +9,12 @@ outcome driven, organic, minimalist, business and solution architecture
 >Helping clients  with the *hard* problems
 
 
-### what is architecture?
+## what is architecture?
 There have been many names given to this role as it applies to business, solution, and product management.  Most recently the term ["Design Thinking"](https://hbr.org/2008/06/design-thinking) is en vogue. Previous iterations included ["Systems Thinking"](https://www.youtube.com/watch?v=6KZn46u7wKw) or "Holistic Design".
 
 Whatever the latest language, an architects role is to deeply consider,  lead, and frame a design process that results in systems that deliver desired outcomes. And because well designed systems are dynamic, the architect also provides the tools that help organizations to continue gathering value from from the feedback loops of those systems.
 
-### approach
+## approach
 The somatisch.io approach brings together the two key aspects of effective strategy to task execution: Understanding and Energy.
 
 
@@ -35,5 +35,5 @@ The models, methods, techniques,and heuristics we like and use you can find unde
 
 {% include introduction.md %}
 
-### some recent thoughts
+## some recent thoughts
 {% include update_list.html %}
