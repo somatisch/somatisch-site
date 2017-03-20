@@ -24,10 +24,12 @@ At first, it not seem as the  most intuitive approach, but once understood, the 
 Below are two models base on value chain mapping in order to help teams think through the market positioning and resultant product and organizational  choices.
 
 The first outlines the evolutionary space of a start-up  and the interplay between market and organizational drivers.
-<img src="https://docs.google.com/drawings/d/1P1KYhEC6__HDJ2p6Dc6yLOZtk3nj0ZOWxKrI6C9zb9Q/pub?w=1440&amp;h=1080">
+
+<img src="https://docs.google.com/drawings/d/1OBX6xVorzWKfM14d8QVu0kE_UepdRLaRAEpkisZx-G8/pub?w=1440&amp;h=1080">
 
 The second is a template for creating  a value chain map.
-<img src="/explorations/Value_Chain_Mapping.svg" />
+
+<img src="https://docs.google.com/drawings/d/1P1KYhEC6__HDJ2p6Dc6yLOZtk3nj0ZOWxKrI6C9zb9Q/pub?w=1440&amp;h=1080">
 
 Here is [more](http://blog.gardeviance.org/2015/04/the-only-structure-youll-ever-need.html) from the originator of the concept.
 
