@@ -10,7 +10,7 @@ title: Strategy
 
 There has been a lot written on positioning, market making, the relationship of a start up to a market etc. Some of the [better writing](https://hackernoon.com/obviously-awesome-a-product-positioning-exercise-604e8ced841e#.u5x18i3gb) refers to "markets" as frames of reference; the idea of ["Blue Oceans"](https://www.blueoceanstrategy.com/) the innovation driven quest to define uncontested market niches. For entrepreneurs it is always a challenge, between explaining the potential of the market as is, the addressable market, and communicating the opportunity as it could be.
 
-But the idea of a possible market itself, is easy when compared to getting to market - execution. Getting to market y requires moving from idea, to instance, generalization. It requires an  aligned and gelled team driving toward a goal And it requires a bit of luck to realize market potential.
+But the idea of a possible market itself is easy when compared to getting to market - execution. Getting to market requires moving from idea, to instance, to generalization. It requires an  aligned and gelled team driving toward a goal. And, to realize market potential, it requires a bit of luck.
 
 One of the more interesting approaches to help bring market aspiration, vision and execution together is that of [value chain mapping](http://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) originated by [Simon Wardley](https://twitter.com/swardley)
 
