@@ -16,7 +16,8 @@ Here is a place where you can find somatisch.io methods and tools.
 - management -->
 
 <!--  overview list -->
-<div class="callout">
+<div class="row">
+<div class="callout columns medium-8 medium-push-2">
 <h3>Table of contents</h3>
 <ul>
 {% comment %}
@@ -40,6 +41,7 @@ and we order by adding
   {% endif %}
 {% endfor %}
 </ul>
+</div>
 </div>
 
 
