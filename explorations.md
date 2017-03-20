@@ -2,7 +2,7 @@
 layout: default
 title: Explorations
 group: "in_local_navigation"
-order: 3
+order: 5
 ---
 ## Exploring
 
