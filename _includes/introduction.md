@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 - somatisch.io history
 - some notes on why I started it
