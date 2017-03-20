@@ -5,7 +5,7 @@ group: "in_local_navigation"
 order: 1
 ---
 # somatisch.io
-outcome driven, organic, minimalist, business and solution architecture
+organic, minimalist, business and solution architecture
 >Helping clients  with the *hard* problems
 
 
