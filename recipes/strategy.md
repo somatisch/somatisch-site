@@ -6,4 +6,4 @@ order: 1
 ---
 ## Strategy
 
-Strategy content placeholder
+[Value Chain Mapping](/recipes/value-chain-mapping.md)
