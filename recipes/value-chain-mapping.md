@@ -31,6 +31,6 @@ The second is a template for creating  a value chain map.
 
 <img src="https://docs.google.com/drawings/d/1P1KYhEC6__HDJ2p6Dc6yLOZtk3nj0ZOWxKrI6C9zb9Q/pub?w=1440&amp;h=1080">
 
-Here is [more](http://blog.gardeviance.org/2015/04/the-only-structure-youll-ever-need.html) from the originator of the concept.
+Here is a [primer](http://blog.gardeviance.org/2013/03/basics-repeated-again.html) and some [more](http://blog.gardeviance.org/2015/04/the-only-structure-youll-ever-need.html) from the originator of the concept.
 
 If you would like to learn more about this and other recipes, or would like to schedule an exercise, please let drop a line.
