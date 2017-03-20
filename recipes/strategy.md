@@ -2,7 +2,7 @@
 layout: default
 title: Strategy
 group: "recipes"
-order: 1
+order: 2
 ---
 ## Strategy
 
