@@ -7,7 +7,6 @@ order: 1
 # somatisch.io
 outcome driven, organic, minimalist, business and solution architecture
 >Helping clients  with the *hard* problems
----
 
 
 ### what is architecture?
