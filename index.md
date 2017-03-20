@@ -24,14 +24,14 @@ The somatisch.io approach brings together the two key aspects of effective strat
 
 The somatisch.io practice is based on the following characteristics:
 
-- specific – guides practitioners and participants with actions, models, and recipes (heuristics)
+- specific – guides practitioners and participants with actions, methods, models, and heuristics - all of which we call recipes.
 - learning focused – specifies actions as part of patterns that can be learned and executed.
-- outcome driven – analyze outcomes and data that result from actions and reconstruct the patterns that produced them.
-- evolutionary– iterate and evolve based on patterns that result in desired outcomes.
-- discursive and constructive – modify the conversations, models, and patterns we are in, or enter into new patterns
-- pragmatic and applied – grounded in practical application
+- outcome driven – analyzes outcomes and data that result from actions and reconstructs the patterns that produced them.
+- evolutionary – adjusts, iterates, and evolves patterns to drive toward desired outcomes.
+- discursive and constructive – modifies the assumptions that informa patterns we are in to construct new patterns
+- pragmatic and applied – made to be implemented in the real world and grounded in practical application.
 
-The models, methods, techniques,and heuristics we like and use you can find under [recipes](/recipes).
+The models, methods, techniques, and heuristics we like and use you can find under [recipes](/recipes).
 
 {% include introduction.md %}
 
