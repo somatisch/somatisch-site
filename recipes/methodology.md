@@ -6,4 +6,4 @@ order: 1
 ---
 ## Methodology
 
-methodology content placeholder
+[practice approach](/recipes/practice)
