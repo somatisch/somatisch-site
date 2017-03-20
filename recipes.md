@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recipes, Models, and Heuristics
+title: Recipes
 group: "in_local_navigation"
 order: 4
 ---
