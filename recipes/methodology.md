@@ -6,4 +6,4 @@ order: 1
 ---
 ## Methodology
 
-[practice approach](/recipes/practice)
+- [Practice approach](/recipes/practice)
