@@ -1,3 +1,8 @@
+---
+layout: default
+title: Strategy
+group: "recipes"
+---
 
 >The *key* to economic action is that *producers seek market niches* to *maximize profit and minimize competition*.  As they do so, they base production decisions not only on anticipated costs from suppliers and anticipated demand from buyers, but also by looking at their competitors.  Producers act less in response to actual demand than by *anticipating* it  gauge where competitors have found demand and thus determine what they can do that is similar …..*and yet  different enough* to give themselves a *special niche*.
 
