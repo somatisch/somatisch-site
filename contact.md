@@ -11,4 +11,4 @@ order: 6
 - or skype: ilabra
 -  digits EU +49 174 947 3812, US +1(510) 545-3623
 
-<img src="">
+<img src="somatisch-site/explorations/Ivan_Labra.png">
