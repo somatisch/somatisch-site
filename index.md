@@ -17,7 +17,6 @@ Whatever the latest language, an architects role is to deeply consider,  lead, a
 ## approach
 The somatisch.io approach brings together the two key aspects of effective strategy to task execution: Understanding and Energy.
 
-
 **Understanding** - providing rigorous, pragmatic, model and method driven analysis
 
 **Energy** - helping clients realize decisions  by generating the momentum to execute a course of action
