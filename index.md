@@ -15,7 +15,7 @@ There have been many names given to this role as it applies to business, solutio
 Whatever the latest language, an architects role is to deeply consider,  lead, and frame a design process that results in systems that deliver desired outcomes. And because well designed systems are dynamic, the architect also provides the tools that help organizations to continue gathering value from from the feedback loops of those systems.
 
 ### approach
-The somtisch.io approach brings together the two key aspects of effective strategy to task execution: Understanding and Energy.
+The somatisch.io approach brings together the two key aspects of effective strategy to task execution: Understanding and Energy.
 
 
 *Understanding*  providing rigorous, pragmatic, model and method driven analysis
@@ -31,6 +31,7 @@ The somatisch.io practice is based on the following characteristics:
 - discursive and constructive – modify the conversations, models, and patterns we are in, or enter into new patterns
 - pragmatic and applied – grounded in practical application
 
+The models, methods, techniques,and heuristics we like and use you can find under [recipes](/recipes).
 
 {% include introduction.md %}
 
