@@ -2,6 +2,7 @@
 layout: default
 title: Strategy
 ---
+## Value Chain Mapping
 
 >The *key* to economic action is that *producers seek market niches* to *maximize profit and minimize competition*.  As they do so, they base production decisions not only on anticipated costs from suppliers and anticipated demand from buyers, but also by looking at their competitors.  Producers act less in response to actual demand than by *anticipating* it  gauge where competitors have found demand and thus determine what they can do that is similar …..*and yet  different enough* to give themselves a *special niche*.
 
@@ -23,7 +24,7 @@ At first, it not seem as the  most intuitive approach, but once understood, the 
 Below are two models base on value chain mapping in order to help teams think through the market positioning and resultant product and organizational  choices.
 
 The first outlines the evolutionary space of a start-up  and the interplay between market and organizational drivers.
-<img src="/explorations/start-up_evolution.svg" />
+<img src="https://docs.google.com/drawings/d/1P1KYhEC6__HDJ2p6Dc6yLOZtk3nj0ZOWxKrI6C9zb9Q/pub?w=1440&amp;h=1080">
 
 The second is a template for creating  a value chain map.
 <img src="/explorations/Value_Chain_Mapping.svg" />
