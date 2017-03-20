@@ -18,9 +18,11 @@ Whatever the latest language, an architects role is to deeply consider,  lead, a
 ### approach
 The somtisch.io approach brings together the two key aspects of effective strategy to task execution: Understanding and Energy.
 
-*Understanding* providing rigorous, pragmatic, model and method driven analysis
+_Understanding_ 
+- providing rigorous, pragmatic, model and method driven analysis
 
-*Energy*  helping clients realize decisions  by generating the momentum to execute a course of action
+_Energy_  
+- helping clients realize decisions  by generating the momentum to execute a course of action
 
 - specific – guides practitioners and participants with actions, models, and recipes (heuristics)
 - learning focused – specifies actions as part of patterns that can be learned and executed.
