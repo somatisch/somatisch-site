@@ -36,6 +36,6 @@ Here is a [blank one](https://docs.google.com/drawings/d/12oM_n6AsPCv_yroCP05WYS
 <img src="https://docs.google.com/drawings/d/12oM_n6AsPCv_yroCP05WYS0nhvYc8s8BUDDlNoRYIGI/pub?w=1440&amp;h=1080">
 
 
-You may want to take tim eto read this [primer](http://blog.gardeviance.org/2013/03/basics-repeated-again.html) before you begin. And her is some [more](http://blog.gardeviance.org/2015/04/the-only-structure-youll-ever-need.html) from the originator of the concept.
+You may want to take time to read this [primer](http://blog.gardeviance.org/2013/03/basics-repeated-again.html) before you begin. And here is some [more](http://blog.gardeviance.org/2015/04/the-only-structure-youll-ever-need.html) from the originator of the concept.
 
 If you would like to learn more about this and other recipes, or would like to schedule an exercise, please [drop a line](/contact/).
