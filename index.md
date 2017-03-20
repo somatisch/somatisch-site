@@ -7,7 +7,7 @@ order: 1
 # somatisch.io
 outcome driven, organic, minimalist, business and solution architecture
 >Helping clients  with the *hard* problems
-________________________
+---
 
 
 ### what is architecture?
@@ -18,11 +18,12 @@ Whatever the latest language, an architects role is to deeply consider,  lead, a
 ### approach
 The somtisch.io approach brings together the two key aspects of effective strategy to task execution: Understanding and Energy.
 
-_Understanding_ 
-- providing rigorous, pragmatic, model and method driven analysis
 
-_Energy_  
-- helping clients realize decisions  by generating the momentum to execute a course of action
+*Understanding*  providing rigorous, pragmatic, model and method driven analysis
+
+*Energy*  helping clients realize decisions  by generating the momentum to execute a course of action
+
+The somatisch.io practice is based on the following characteristics:
 
 - specific – guides practitioners and participants with actions, models, and recipes (heuristics)
 - learning focused – specifies actions as part of patterns that can be learned and executed.
