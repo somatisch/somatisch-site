@@ -4,7 +4,8 @@ title: About
 group: "in_local_navigation"
 order: 2
 ---
-# This is a website
+# Why I started somatisch.io
+
 I started somatisch.io to do interesting things for interesting people tackling hard problems. 
 
 Doing this kind of work requires trust, so let me tell you about my experience and how it has led to somatisch.io.  
