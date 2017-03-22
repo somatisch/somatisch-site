@@ -6,7 +6,7 @@ order: 4
 ---
 ## Recipes, Models, and Heuristics
 
-Here is a place where you can find somatisch.io methods and tools.
+Here is a place where you can find somatisch.io methods, models, problem solving techniques, and tools.
 
 <!-- - strategy
 - methodology
