@@ -6,4 +6,4 @@ order: 4
 ---
 
 ## Management
-- [Coordination Loops](/recipes/coordination-loop)
+- [Coordination Loops](/recipes/coordination-loops)
