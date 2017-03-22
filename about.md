@@ -6,7 +6,7 @@ order: 2
 ---
 # Why I started somatisch.io
 
-I started somatisch.io to do interesting things for interesting people tackling hard problems. 
+I started somatisch.io to do interesting things for and with interesting people tackling hard problems. 
 
 Doing this kind of work requires trust, so let me tell you about my experience and how it has led to somatisch.io.  
 
