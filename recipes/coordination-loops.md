@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Management
+title: management
 ---
 ## Coordination Loops
 >“Engineers are widely seen as people of great technical prowess but who are difficult to get along with, aloof from their customers, and inclined to substitute technologies of personal interest for technologies that would bring value to their customers. This exacts a huge cost -- unreliable and undependable technology, waste in technology development, and
