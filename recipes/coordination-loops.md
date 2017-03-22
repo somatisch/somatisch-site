@@ -25,4 +25,4 @@ Establishing the conditions for effective coordination loops in an organization 
 
 The below table based in Dr. Denning’s work, but adapted for a business environment outlines some of the components, goals and practices to develop the value delivery skills needed for more effective coordination loops.
 
-<iframe width="765" height="1065.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/10QxKxTqxKfYq9GFaP1Ed5LjvxDqpqa5LKZLlqZG5m3g/pubchart?oid=1965898065&amp;format=interactive"></iframe>  
+<iframe width="765" height="1065.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/10QxKxTqxKfYq9GFaP1Ed5LjvxDqpqa5LKZLlqZG5m3g/pubchart?oid=1965898065&amp;format=interactive"></iframe>
