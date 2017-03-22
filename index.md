@@ -32,7 +32,6 @@ The somatisch.io [practice](/recipes/practice) is based on the following charact
 
 Feel free to look through and use our [recipes](/recipes).
 
-{% include introduction.md %}
 
 ## some recent thoughts
 {% include update_list.html %}
