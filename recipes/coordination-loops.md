@@ -17,9 +17,7 @@ As an organization begins to outline its strategic goals and chart a course of a
 
 A healthy organization is one in which team members can make contracts for which condition of satisfaction can be met. This is a request and fulfillment process often mediated by project managers. Tasks, definitions, level of efforts, deadlines, etc...are all port of this process.  But at a fundamental level this is a human communicative process - a coordination loop, and no amount of methodology, agile, CMMI, lean, six sigma or otherwise will compensate if the core contract making and fulfillment conditions are absent.
 
-
 <img src="https://docs.google.com/drawings/d/1F6DAPa8ayDWfbUMiNELB9CzjEZWWI7d4GF57hUsyglI/pub?w=1440&amp;h=1080">
-
 
 Establishing the conditions for effective coordination loops in an organization is the key task of leadership. That includes the development of the skills necessary to participate in effective coordination, skills outside the domain of rational application of applied knowledge.
 
