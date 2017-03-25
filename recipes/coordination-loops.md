@@ -13,9 +13,9 @@ foundation of leadership.
 
 Peter Denning, *The Somatic engineer*
 
-As an organization begins to outline its strategic goals and chart a course of action to execute against those goals, its success in delivering the value often depends less on the soundness of the plan than on the energy and health of the organization. “somatic state“ or how it embodies and realizes its ideas.  The **somatic state** is, in my experience, the key element to execution.
+As an organization begins to outline its strategic goals and chart a course of action to execute against those goals, its success in delivering the value often depends less on the soundness of the plan than on the energy and health of the organization the “somatic state“, or how it embodies and realizes its ideas.  The **somatic state** is, in my experience, the key element to execution.
 
-A healthy organization is one in which team members can make contracts for which condition of satisfaction can be met. This is a request and fulfillment process often mediated by project managers. Tasks, definitions, level of efforts, deadlines, etc...are all port of this process.  But at a fundamental level this is a human communicative process - a coordination loop, and no amount of methodology, agile, CMMI, lean, six sigma or otherwise will compensate if the core contract making and fulfillment conditions are absent.
+A healthy organization is one in which team members can make contracts for which conditions of satisfaction can be met. This is a request and fulfillment process often mediated by project managers. Tasks, definitions, level of efforts, deadlines, etc...are all port of this process.  But at a fundamental level this is a human communicative process - a coordination loop, and no amount of methodology, agile, CMMI, lean, six sigma or otherwise will compensate if the core contract making and fulfillment conditions are absent.
 
 <img src="https://docs.google.com/drawings/d/1F6DAPa8ayDWfbUMiNELB9CzjEZWWI7d4GF57hUsyglI/pub?w=1440&amp;h=1080">
 
