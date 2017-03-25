@@ -13,21 +13,11 @@
 <script type="text/JavaScript">$(document).foundation();</script>
 <!-- <script type="text/JavaScript">$(document).foundationExtend();</script> -->
 <script src="/assets/flowtype.js"></script>
-<script type="text/JavaScript">
-$('p').flowtype({
-  minFont : 14,
-  maxFont : 26
-});
-$('li, dd, dt').flowtype({
-  minFont : 14,
-  maxFont : 23
-});
-$('h1').flowtype({
-  fontRatio : 10,
-  minFont : 30,
-  maxFont : 70
-});
+<link rel="stylesheet" href="/assets/selection-sharer/src/selection-sharer.css" />
+<script src="/assets/selection-sharer/src/selection-sharer.js"></script>
+<script>
 </script>
+<script src="/assets/app.js"></script>
 
 {% comment %} Custom global JS could go here: {% endcomment %}
 {% for js in site.custom_js %}
