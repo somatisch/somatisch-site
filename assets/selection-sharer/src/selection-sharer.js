@@ -143,7 +143,7 @@
       setTimeout(function() {
         var sel = window.getSelection();
         var selection = self.getSelectionText(sel);
-        if(!sel.isCollapsed && selection && selection.length>10 && selection.match(/ /)) {
+        if(!sel.isCollapsed && selection && selection.length>1) {
           var range = sel.getRangeAt(0);
           var topOffset = range.getBoundingClientRect().top - 5;
           var top = topOffset + self.getPosition().y - self.$popover.height();

@@ -15,4 +15,4 @@ $('h1').flowtype({
 
 
 // https://github.com/xdamman/selection-sharer
-$('p').selectionSharer();
+$('#main-content-area').selectionSharer();
