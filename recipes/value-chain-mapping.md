@@ -27,11 +27,11 @@ The first outlines the evolutionary space of a start-up  and the interplay betwe
 
 <img src="https://docs.google.com/drawings/d/1OBX6xVorzWKfM14d8QVu0kE_UepdRLaRAEpkisZx-G8/pub?w=1440&amp;h=1080">
 
-The second is a template for creating  a value chain map.
+The second is outlines the high level activities that infrom progression through the evolutionary cycle. 
 
 <img src="https://docs.google.com/drawings/d/1P1KYhEC6__HDJ2p6Dc6yLOZtk3nj0ZOWxKrI6C9zb9Q/pub?w=1440&amp;h=1080">
 
-Here is a [blank one](https://docs.google.com/drawings/d/12oM_n6AsPCv_yroCP05WYS0nhvYc8s8BUDDlNoRYIGI/edit?usp=sharing) whic you can duplicate to create your own value chain map.
+Here is a [blank one](https://docs.google.com/drawings/d/12oM_n6AsPCv_yroCP05WYS0nhvYc8s8BUDDlNoRYIGI/edit?usp=sharing) template which you can duplicate to create your own value chain map.
 
 <img src="https://docs.google.com/drawings/d/12oM_n6AsPCv_yroCP05WYS0nhvYc8s8BUDDlNoRYIGI/pub?w=1440&amp;h=1080">
 
