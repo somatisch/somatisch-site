@@ -9,6 +9,7 @@ order: 6
 
 Here's how to get in touch
   : <i class="fa fa-envelope-o" aria-hidden="true"></i> E-mail me: [i@somatisch.io](mailto:i@somatisch.io)
+  : <i class="fa fa-linkedin" aria-hidden="true"></i> linked-in:[ilabra](https://www.linkedin.com/in/ilabra/)
   : <i class="fa fa-slack" aria-hidden="true"></i> Slack: [let's chat](https://somatisch.slack.com/messages/C4LJMVB7F)
   : <i class="fa fa-skype" aria-hidden="true"></i> Skype: [ilabra](skype:ilabra?chat)
   : <i class="fa fa-phone" aria-hidden="true"></i> Call: digits EU [+49 174 947 3812](tel:0049-174-947-3812), US [+1(510) 545-3623](tel:001-510-545-3623)
