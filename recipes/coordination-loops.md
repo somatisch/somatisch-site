@@ -11,7 +11,7 @@ foundation of leadership.
 
 >The value skills cannot be learned from a book. They are most effectively learned through coached somatic practice.”
 
-Peter Denning, *The Somatic engineer*
+Peter Denning, *The Somatic Engineer*
 
 As an organization begins to outline its strategic goals and chart a course of action to execute against those goals, its success in delivering the value often depends less on the soundness of the plan than on the energy and health of the organization the “somatic state“, or how it embodies and realizes its ideas.  The **somatic state** is, in my experience, the key element to execution.
 
