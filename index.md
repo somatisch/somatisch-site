@@ -9,10 +9,12 @@ organic, minimalist, business and solution architecture
 >Helping clients  with the *hard* problems
 
 
-## what is solution architecture?
+## what is architecture?
 There have been many names given to this role as it applies to business, solution, and product management.  Most recently the term ["Design Thinking"](https://hbr.org/2008/06/design-thinking) is en vogue. Previous iterations included ["Systems Thinking"](https://www.youtube.com/watch?v=6KZn46u7wKw) or "Holistic Design".
 
-Whatever the latest language, an architect's role is to deeply consider, lead and frame a design process to create systems that deliver a desired outcome.Because well-designed systems are dynamic the architect also plans for tools to continue gathering value from a system's feedback loops.
+Whatever the latest language, an architect's role, whether creating or validating a business model, modeling an enterprise, designing a product, or defining a solution, is to deeply consider, lead, and frame processes and systems that deliver desired outcomes. 
+
+Because well-designed systems are dynamic, the architect also defines the way an orgnization gathera value from a system's feedback loops as well as take advantage of new powerful postive externalities. Stated simply, a good architect delivers solutions that improve over time, and enable new and novel value creation, from strategy to task to outcome.
 
 ## approach
 The somatisch.io approach brings together two key aspects of effective strategy to task execution: 
