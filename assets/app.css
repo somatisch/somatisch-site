@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .row {
-  max-width: rem-calc(1200);
+  max-width: 75rem;
   margin-right: auto;
   margin-left: auto;
 }
@@ -3286,7 +3286,7 @@ html.is-reveal-open body {
 @media print, screen and (min-width: 40em) {
   .reveal {
     width: 600px;
-    max-width: rem-calc(1200);
+    max-width: 75rem;
   }
 }
 @media print, screen and (min-width: 40em) {
@@ -3302,19 +3302,19 @@ html.is-reveal-open body {
 @media print, screen and (min-width: 40em) {
   .reveal.tiny {
     width: 30%;
-    max-width: rem-calc(1200);
+    max-width: 75rem;
   }
 }
 @media print, screen and (min-width: 40em) {
   .reveal.small {
     width: 50%;
-    max-width: rem-calc(1200);
+    max-width: 75rem;
   }
 }
 @media print, screen and (min-width: 40em) {
   .reveal.large {
     width: 90%;
-    max-width: rem-calc(1200);
+    max-width: 75rem;
   }
 }
 .reveal.full {
