@@ -60,14 +60,14 @@
     $global-flexbox: true !global;
   }
 
-  @include foundation-global-styles;
+  // @include foundation-global-styles;
   @if not $flex {
     @include foundation-grid;
   }
   @else {
     @include foundation-flex-grid;
   }
-  @include foundation-typography;
+  // @include foundation-typography;
   @include foundation-forms;
   @include foundation-button;
   @include foundation-accordion;
@@ -149,10 +149,6 @@
 // @include foundation-top-bar;
 // @include foundation-visibility-classes;
 // @include foundation-float-classes;
-
-h2 {
-  font-family: 'Lora', Georgia, serif;
-}
 
 #footer a:link,
 #content a:link {
