@@ -12,9 +12,9 @@ organic, minimalist, business and solution architecture
 ## what is architecture?
 There have been many names given to this role as it applies to business, solution, and product management.  Most recently the term ["Design Thinking"](https://hbr.org/2008/06/design-thinking) is en vogue. Previous iterations included ["Systems Thinking"](https://www.youtube.com/watch?v=6KZn46u7wKw) or "Holistic Design".
 
-Whatever the latest language, an architect's role, whether creating or validating a business model, modeling an enterprise, designing a product, or defining a solution, is to deeply consider, lead, and frame processes and systems that deliver desired outcomes. 
+Whatever the latest language, an architect's role, whether creating or validating a business model, modeling an enterprise, designing a product, or defining a solution, is to deeply consider, lead, and frame processes and systems that deliver desired outcomes.
 
-Because well-designed systems are dynamic, the architect also defines the way an orgnization gathers value from a system's feedback loops as well as take advantage of new powerful postive externalities. 
+Because well-designed systems are dynamic, the architect also defines the way an orgnization gathers value from a system's feedback loops as well as take advantage of new powerful postive externalities.
 
 Stated simply, a good architect delivers solutions that:
 
@@ -23,19 +23,30 @@ Stated simply, a good architect delivers solutions that:
 - from strategy to task to outcome.
 
 ## approach
-The somatisch.io approach brings together two key aspects of effective strategy to task execution: 
+The somatisch.io approach brings together two key aspects of effective strategy to task execution:
 
 1. **Understanding**: providing rigorous, pragmatic, model and method driven analysis
 2. **Energy**: helping clients realize decisions  by generating the momentum to execute a course of action
 
 The somatisch.io [practice](/recipes/practice) is based on the following characteristics:
 
-- specific: guides practitioners and participants with actions, methods, models, and heuristics - all of which we call recipes;
-- learning focused: specifies actions as part of patterns that can be learned and executed;
-- outcome driven: analyzes outcomes and data that result from actions and reconstructs the patterns that produced them;
-- evolutionary: adjusts, iterates, and evolves patterns to drive toward desired outcomes;
-- discursive and constructive: works with clients to develop the assumptions that inform patterns and recipes; and
-- pragmatic and applied: made to be implemented in the real world and grounded in practical application.
+  Specific
+  : guides practitioners and participants with actions, methods, models, and heuristics - all of which we call recipes.
+
+  Learning focused
+  : specifies actions as part of patterns that can be learned and executed.
+
+  Outcome driven
+  : analyzes outcomes and data that result from actions and reconstructs the patterns that produced them.
+
+  Evolutionary
+  : adjusts, iterates, and evolves patterns to drive toward desired outcomes.
+
+  Discursive and constructive
+  : works with clients to develop the assumptions that inform patterns and recipes.
+
+  Pragmatic and applied
+  : made to be implemented in the real world and grounded in practical application.
 
 Feel free to look through and use our [recipes](/recipes).
 
@@ -43,6 +54,3 @@ Feel free to look through and use our [recipes](/recipes).
 - Read a bit [about my background](/about)
 - Get [in touch](/contact)
 - Or check out some recent postings below
-
-### some recent thoughts
-{% include update_list.html %}

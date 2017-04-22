@@ -79,13 +79,19 @@ article { position: relative;
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
-p, ol, ul { font-size: 1.4rem; }
+p, ol, ul, dt, dd { font-size: 1.4rem; }
 
-p { line-height: 2rem;
+p, dd { line-height: 2rem;
     margin-top: 1.4rem;
     margin-bottom: 1.4rem;
     padding-right: 0;
     vertical-align: baseline; }
+
+dt, dd {
+  margin-left: 40px;
+  margin-top: 0;
+}
+dt { font-weight: 700; padding-bottom: 0; }
 
 /* Chapter Epigraphs */
 div.epigraph { margin: 5em 0; }
@@ -138,7 +144,7 @@ figcaption { float: right;
 figure.fullwidth figcaption { margin-right: 24%; }
 
 /* Links: replicate underline that clears descenders */
-#content a:link, #content a:visited { color: inherit; }
+a:link, a:visited { color: inherit; }
 
 #content a:link { text-decoration: none;
          background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
@@ -191,7 +197,7 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -82%;
                                                min-width: 59%;
                                                text-align: left; }
 
-p, table { width: 55%; }
+p, table, ul, ol, dd { width: 55%; }
 
 div.fullwidth, table.fullwidth { width: 100%; }
 

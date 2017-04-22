@@ -2,23 +2,11 @@
 <html lang="en">
   {% include head.html %}
   <body class="">
-    <!-- <h1><a href="/">Somatisch</a></h1> -->
-    <div class="padding-top-medium">
-      {% include site_head.html %}
-    </div>
-    <div id="content" role="main" class="row">
-
-      <section class="columns">
-
-        <div class="row" id="main-content-area">
-
-          <div class="medium-11 medium-push-1 columns padding-top-xlarge">
-          {{ content }}
-          </div>
-
-        </div>
+    {% include site_head.html %}
+    <div id="content" role="main">
+      <section class="row" id="main-content-area">
+        {{ content }}
       </section>
-
     </div><!-- /.container -->
     {% include footer.html %}
   </body>
