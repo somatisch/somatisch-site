@@ -10,6 +10,8 @@ organic, minimalist, business and solution architecture
 
 
 ## what is architecture?
+![alt text](https://s-media-cache-ak0.pinimg.com/236x/68/22/24/6822240df3cc3a802ab8415034c2050c.jpg "A Pattern Language, ")
+
 There have been many names given to this role as it applies to business, solution, and product management.  Most recently the term ["Design Thinking"](https://hbr.org/2008/06/design-thinking) is en vogue. Previous iterations included ["Systems Thinking"](https://www.youtube.com/watch?v=6KZn46u7wKw) or "Holistic Design".
 
 Whatever the latest language, an architect's role, whether creating or validating a business model, modeling an enterprise, designing a product, or defining a solution, is to deeply consider, lead, and frame processes and systems that deliver desired outcomes.
