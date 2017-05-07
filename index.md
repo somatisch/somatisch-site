@@ -21,6 +21,8 @@ Whatever the latest language, an architect's role, whether creating or validatin
 Because well-designed systems are dynamic, the architect also defines the way an orgnization gathers value from a system's feedback loops as well as take advantage of new powerful postive externalities.
 
 Stated simply, a good architect delivers solutions that:
+![alt text](http://www.hyperkommunikation.ch/images/maturana_kopf.jpg "Maturana & Varela"){% include sidenote.html siteid="new-patterns" %}<span class="sidenote">![alt text](https://static-content.springer.com/cover/journal/11213.jpg "") [The Cognitive Theories of Maturana and Varela](http://www.univie.ac.at/constructivism/archive/fulltexts/2253.pdf)
+</span>
 
 - improve over time
 - enable new and novel value creation
