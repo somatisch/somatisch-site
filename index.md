@@ -11,7 +11,7 @@ organic, minimalist, business and solution architecture
 
 ## what is architecture?
 ![alt text](https://s-media-cache-ak0.pinimg.com/236x/68/22/24/6822240df3cc3a802ab8415034c2050c.jpg "A Pattern Language, Christopher Alexander "){% include sidenote.html siteid="new-patterns" %}<span class="sidenote"> We are searching for some kind of harmony between two intangibles: a form which we have not yet designed and a context which we cannot properly describe. 
-[Notes on the Synthesis of Form] (http://www.hup.harvard.edu/catalog.php?isbn=9780674627512)- Christopher Alexander 
+[Notes on the Synthesis of Form](http://www.hup.harvard.edu/catalog.php?isbn=9780674627512)- Christopher Alexander 
 </span>
 
 There have been many names given to this role as it applies to business, solution, and product management.  Most recently the term ["Design Thinking"](https://hbr.org/2008/06/design-thinking) is en vogue. Previous iterations included ["Systems Thinking"](https://www.youtube.com/watch?v=6KZn46u7wKw) or "Holistic Design".
