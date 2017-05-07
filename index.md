@@ -21,7 +21,7 @@ Whatever the latest language, an architect's role, whether creating or validatin
 Because well-designed systems are dynamic, the architect also defines the way an orgnization gathers value from a system's feedback loops as well as take advantage of new powerful postive externalities.
 
 Stated simply, a good architect delivers solutions that:
-![alt text](http://www.hyperkommunikation.ch/images/maturana_kopf.jpg "Maturana & Varela"){% include sidenote.html siteid="new-patterns" %}<span class="sidenote"> From Maturan and Valero who coined the term "autopoiesis" (from Greek αὐτo- (auto-), meaning 'self', and ποίησις (poiesis), meaning 'creation, production') refering to self enforcing and reporducing systems. This paper outlines some of their theories. [The Cognitive Theories of Maturana and Varela](http://www.univie.ac.at/constructivism/archive/fulltexts/2253.pdf)
+![alt text](http://www.hyperkommunikation.ch/images/maturana_kopf.jpg "Maturana & Varela"){% include sidenote.html siteid="new-patterns" %}<span class="sidenote"> From Maturana and Varela who coined the term "autopoiesis" (from Greek αὐτo- (auto-), meaning 'self', and ποίησις (poiesis), meaning 'creation, production') refering to self enforcing and reporducing systems. This paper outlines some of their theories. [The Cognitive Theories of Maturana and Varela](http://www.univie.ac.at/constructivism/archive/fulltexts/2253.pdf)
 </span>
 
 - improve over time
